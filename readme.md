@@ -4,10 +4,10 @@ Conference website created for the [Shay Howe Course](http://learn.shayhowe.com/
 
 **Progress:**
 
-- [ ] Building Your First Web Page
-- [ ] Getting to know HTML
-- [ ] Getting to know CSS
-- [ ] Opening the Box Model
+- [x] Building Your First Web Page
+- [x] Getting to know HTML
+- [x] Getting to know CSS
+- [x] Opening the Box Model
 - [ ] Positioning Content
 - [ ] Working with Typography
 - [ ] Setting Backgrounds & Gradients
