@@ -8,7 +8,7 @@ Conference website created for the [Shay Howe Course](http://learn.shayhowe.com/
 - [x] Getting to know HTML
 - [x] Getting to know CSS
 - [x] Opening the Box Model
-- [ ] Positioning Content
+- [ ] **Positioning Content**
 - [ ] Working with Typography
 - [ ] Setting Backgrounds & Gradients
 - [ ] Creating Lists
