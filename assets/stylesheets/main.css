@@ -65,6 +65,24 @@ table {
 
 /*
   ========================================
+  Clearfix
+  ========================================
+*/
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+.group:after {
+  clear: both;
+}
+.group {
+  clear: both;
+  *zoom: 1;
+}
+
+/*
+  ========================================
   Typography
   ========================================
 */
@@ -85,6 +103,30 @@ h1, h3, h4, h5, p {
 .btn-alt {
 	border: 1px solid #dfe2e5;
 	padding: 10px 30px;
+}
+
+/*
+  ========================================
+  Primary Header
+  ========================================
+*/
+.logo {
+	float: left;
+	border-top: 4px solid #648880;
+	padding: 40px 0 22px 0;
+}
+
+/*
+  ========================================
+  Primary Footer
+  ========================================
+*/
+.primary-footer {
+	padding-top: 44px;
+	padding-bottom: 44px;
+}
+.primary-footer small {
+	float: left;
 }
 
 /*
