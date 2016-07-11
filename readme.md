@@ -10,7 +10,7 @@ Conference website created for the [Shay Howe Course](http://learn.shayhowe.com/
 - [x] Opening the Box Model
 - [x] Positioning Content
 - [x] Working with Typography
-- [ ] Setting Backgrounds & Gradients
+- [ ] **Setting Backgrounds & Gradients**
 - [ ] Creating Lists
 - [ ] Adding Media
 - [ ] Building Forms
