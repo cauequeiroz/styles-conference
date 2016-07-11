@@ -9,7 +9,7 @@ Conference website created for the [Shay Howe Course](http://learn.shayhowe.com/
 - [x] Getting to know CSS
 - [x] Opening the Box Model
 - [x] Positioning Content
-- [ ] **Working with Typography**
+- [x] Working with Typography
 - [ ] Setting Backgrounds & Gradients
 - [ ] Creating Lists
 - [ ] Adding Media
