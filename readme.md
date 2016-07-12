@@ -13,7 +13,7 @@ Conference website created for the [Shay Howe Course](http://learn.shayhowe.com/
 - [x] Setting Backgrounds & Gradients
 - [x] Creating Lists
 - [x] Adding Media
-- [ ] Building Forms
+- [ ] **Building Forms**
 - [ ] Organizing Data with Tables
 - [ ] Writing Your Best Code
 
