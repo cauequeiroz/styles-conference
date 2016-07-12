@@ -310,6 +310,12 @@ p a {
 .teaser a:hover h3 {
 	color: #a9b2b9;
 }
+.teaser img {
+	display: block;
+	max-width: 100%;
+	margin-bottom: 22px;
+	border-radius: 5px;
+}
 
 /*
   ========================================
