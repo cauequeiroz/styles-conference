@@ -4,6 +4,8 @@ Conference website created for the [Shay Howe Course](http://learn.shayhowe.com/
 
 You can see the final result [here](http://cauequeiroz.github.io/styles-conference/).
 
+![screenshot](screenshot.png)
+
 **Progress:**
 
 - [x] Building Your First Web Page
