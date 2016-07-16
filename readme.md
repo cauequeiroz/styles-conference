@@ -15,5 +15,5 @@ Conference website created for the [Shay Howe Course](http://learn.shayhowe.com/
 - [x] Adding Media
 - [x] Building Forms
 - [x] Organizing Data with Tables
-- [ ] **Writing Your Best Code**
+- [x] Writing Your Best Code
 
